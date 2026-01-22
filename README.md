@@ -1,8 +1,12 @@
-# Collab\_Project
+# Simple Interest Calculator
 
-model practical examination
+This program calculates the simple interest using the formula:
 
-This branch adds the login feature.
+Simple Interest = (Principal × Rate × Time) / 100
 
+## Example
+Principal: 1000  
+Rate: 5%  
+Time: 2 years  
 
-
+Simple Interest: 100
